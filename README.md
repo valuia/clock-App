@@ -42,6 +42,3 @@ To run the clock app, follow these steps:
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are welcome!
 
-## License
-
-This project is licensed under the [MIT]
